@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    Hello newcomers, we have a new plugin!
+</div>
